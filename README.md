@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # todofront
 To-Do Front-end
 =======
